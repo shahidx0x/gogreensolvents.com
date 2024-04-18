@@ -1,0 +1,6 @@
+Resource-Uri: https://iws-iapi.secure.webhosting.yahoo.com:4443/sbsoacs/v1/service/ysbs-353a70c9138eb2a/actor/inmakingdom%23dh/actorrole/Owner
+Content-Length: 100
+Ttl: 0
+Data: 
+<ysbs_oacs:access xmlns:ysbs_oacs="http://smallbusiness.yahoo.com/oacs" >GRANTED</ysbs_oacs:access>
+

@@ -1,0 +1,150 @@
+[
+    {
+        "id":1,
+        "Product_Name":"Super Green Environmental Cleaner Degreaser",
+        "Discription":"All Purpose Cleaner and Degreaser (Environmental Cleaner )",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":2,
+        "Product_Name":"General Purpose Natural Solvent Degreaser",
+        "Discription":"All Purpose Solvent Degreaser",
+        "imge":"assets/img/products/Product Package-2.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":3,
+        "Product_Name":"Parts Washer Environmental Cleaner Degreaser",
+        "Discription":"Parts and equipment cleaner and solvent ",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":4,
+        "Product_Name":"Engine Natural Degreaser & Shampoo",
+        "Discription":"Engine Degreaser and Cleaner",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":5,
+        "Product_Name":"Rust Remover Water Based",
+        "Discription":"Rust Remover",
+        "imge":"assets/img/products/Product Package-5.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":6,
+        "Product_Name":"Nut and Bolt Loosener",
+        "Discription":"Penetrate and  removes rust, cleans, lubricates, seals and protects against further corrosion and rust formation on metal to metal parts and metal surfaces.",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":7,
+        "Product_Name":"Paint Gun, Epoxy and Line Cleaner",
+        "Discription":"Removes paint, resins, glues, tar, grease, polymers and coatings.",
+        "imge":"assets/img/products/Product Package-7.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":8,
+        "Product_Name":"Gelsol Natural Degreaser",
+        "Discription":"Remove oil, grease, mud and dirt from trucks, garages, decks, shipping and rigging superstructures, factory floors, machinery and equipment. Also ideal as an industrial laundry additive for heavy oil and grease stained overalls and wipes",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":9,
+        "Product_Name":"Air Conditioner and Coil Cleaner",
+        "Discription":"Interior and exterior coil cleaner",
+        "imge":"assets/img/products/Product Package-9.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":10,
+        "Product_Name":"Sure Strip Natural Solvent Based Cleaner",
+        "Discription":"Remove paint, resins, glues, tar, grease, polymers and coatings",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":11,
+        "Product_Name":"Solid Remover",
+        "Discription":"removes heavy asphalt, concrete, Sulphur, oil and solids from storage tank, floor and wall surfaces",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":12,
+        "Product_Name":"Environmental Heat Exchanger  & Cooling Tower Cleaner",
+        "Discription":"removes hard water scale from all types of heat-exchanger equipment",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":13,
+        "Product_Name":"Electronic & Electrical Solvent Cleaner and degreaser",
+        "Discription":"Critical cleaning of computers , Electronic components , Magnetic tapes, printed circuits , Precision gauges and instruments,  office machines, coin chutes, vacuum  tub parts, hermetic motors  hearing aids, T.V. tuners  Optical lenses Medical equipment  Aerospace parts and equipment , L.O.X. systems, bearings, micro modules , Motors, switches, relays ,potentiometers and photographic films",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":14,
+        "Product_Name":"Natural Enzyme Waste Digester",
+        "Discription":"controlling solids, fats, and soaps in a highly effective manner",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":15,
+        "Product_Name":"Tar Remover (No Chlorinated Solvents)",
+        "Discription":"removal of tar, asphalt and heavy road oils from heavy equipment, trucks, cars, buses and other types of oil field equipment. It also has some secondary uses such as removing asphalt and roofing tar from concrete, brick and stone",
+        "imge":"assets/img/products/Product Package-15.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":16,
+        "Product_Name":"Demusifier and Moisture Reduction",
+        "Discription":"treat and bring back into production gas wells that have been plugged and abandoned. it lowers the hydrostatic pressure in a gas well allowing the plug or stopped up gas to start to flow again",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":17,
+        "Product_Name":"Mud Ball Dispersion and Break-up",
+        "Discription":"designed to break up and disperse caked or balled oily soils and clay",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":18,
+        "Product_Name":"Super Paraffin Remover",
+        "Discription":"remove heavy asphaltene, wax and paraffin build-ups that reduce flow capacity",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":19,
+        "Product_Name":"Tank Sludge Cleaner",
+        "Discription":"This product removes heavy asphaltene, oil and solids from within storage tank floor and wall surfaces. Tank Sludge Cleaner can be used to clean flow lines, production separators, pumps, strainers and other fluid handling equipment",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":20,
+        "Product_Name":"White pearl for hand cleaner",
+        "Discription":"Removes: Ink ,Tar ,Oil, Grime ,Grease ,Soot, Carbon and Other stubborn substance",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    },
+    {
+        "id":21,
+        "Product_Name":"Floor Stripper  Cleaner (Mop & Strip)",
+        "Discription":"Floor Stripper and  Cleaner",
+        "imge":"assets/img/products/Product Package-1.jpg",
+        "URL":"products.html"
+    }
+    
+]
