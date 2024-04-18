@@ -12,7 +12,10 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
 }
-
+.carousel-item video {
+  width: 100%;
+  height: auto;
+}
 a {
   color: #8ec040;
   text-decoration: none;

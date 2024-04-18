@@ -56,7 +56,7 @@
     </div>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="d-flex align-items-center">
+  <!-- <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
       <a href="index.html" class="logo d-flex align-items-center">
         <img src="assets/img/logo.png" alt="GoGreen Logo">
@@ -71,9 +71,10 @@
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
-
     </div>
-  </header><!-- End Header -->
+  </header> -->
+  
+  <!-- End Header -->
   <!-- ======= Hero Section ======= -->
   <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-indicators">
@@ -82,11 +83,23 @@
       <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
     </div>
     <div class="carousel-inner">
-      <div class="carousel-item active" style="background-image: url('assets/img/slied1.jpg')">
+      <div class="carousel-item active">
+        <video autoplay loop muted>
+          <source src="assets/video/vp.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
       </div>
-      <div class="carousel-item" style="background-image: url('assets/img/slied2.jpg')">
+      <div class="carousel-item">
+        <video autoplay loop muted>
+          <source src="assets/video/vp.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
       </div>
-      <div class="carousel-item" style="background-image: url('assets/img/slied3.jpg')">
+      <div class="carousel-item">
+        <video autoplay loop muted>
+          <source src="assets/video/vp.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
@@ -219,14 +232,11 @@
               <p>Projects</p>
             </div>
           </div>
-
-
-
-
         </div>
-
       </div>
-    </section><!-- End Counts Section -->
+    </section>
+    
+    <!-- End Counts Section -->
   <!-- ======= Products Section ======= -->
   <section id="Products" class="services section-bg">
     <div class="container" data-aos="fade-up">
@@ -277,7 +287,42 @@
 
           </div>
         </div>
-    </section><!-- End Clients Section -->
+    </section>
+
+    <section id="Clients" class="clients section-bg">
+      <div class="container" data-aos="zoom-in">
+
+        <div class="section-title">
+          <h2>Clients</h2>
+          <h3><span>Our Clients</span></h3>
+        </div>
+
+        <div class="slider">
+          <div class="slide-track">
+
+            <div class="slide">
+              <img src="assets/img/clients/client-1.png" height="100"  alt="" />
+            </div>
+            <div class="slide">
+              <img src="assets/img/clients/client-2.png" height="100"  alt="" />
+            </div>
+            <div class="slide">
+              <img src="assets/img/clients/client-3.png" height="100"  alt="" />
+            </div>
+            <div class="slide">
+              <img src="assets/img/clients/client-4.png" height="100"  alt="" />
+            </div>
+            <div class="slide">
+              <img src="assets/img/clients/client-5.png" height="100"  alt="" />
+            </div>
+
+
+
+          </div>
+        </div>
+    </section>
+    
+    <!-- End Clients Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact section">
@@ -331,7 +376,7 @@
           </div>
 
           <div class="col-lg-6">
-            <form action="forms/send-email.php" method="post" role="form" class="php-email-form">
+            <form action="contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
