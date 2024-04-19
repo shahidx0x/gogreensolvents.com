@@ -12,10 +12,12 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
 }
+
 .carousel-item video {
   width: 100%;
   height: auto;
 }
+
 a {
   color: #8ec040;
   text-decoration: none;
@@ -2159,6 +2161,7 @@ section {
   display: flex;
   width: calc(250px * 14);
 }
+
 
 .slider .slide {
   height: 100px;

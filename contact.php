@@ -15,7 +15,7 @@ try {
     $mail->Host = 'smtp.bizmail.yahoo.com';
     $mail->SMTPAuth = true;
     $mail->Username = 'sender@gogreensolvents.com';
-    $mail->Password = 'secret';
+    $mail->Password = 'xtdevuinkeovcnbp';
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
     $mail->Port = 465;
 
@@ -27,7 +27,7 @@ try {
 
     // Recipients
     $mail->setFrom('sender@gogreensolvents.com', 'Mail Sender');
-    $mail->addAddress('usermails@gogreensolvents.com', 'User Emails');
+    $mail->addAddress('dev.imshahid@gmail.com', 'User Emails');
     $mail->addReplyTo($email, $name);
 
     // Content
