@@ -15,7 +15,7 @@ try {
     $mail->Host = 'smtp.bizmail.yahoo.com';
     $mail->SMTPAuth = true;
     $mail->Username = 'sender@gogreensolvents.com';
-    $mail->Password = 'xtdevuinkeovcnbp';
+    $mail->Password = 'secret';
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
     $mail->Port = 465;
 
