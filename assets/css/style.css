@@ -5,9 +5,122 @@
 * License: https://bootstrapmade.com/license/
 */
 
+/*===========================
+    clients-01 css 
+===========================*/
+.client-logo-area .section-title-two {
+  text-align: center;
+  max-width: 550px;
+  margin: auto;
+  margin-bottom: 50px;
+  position: relative;
+  z-index: 5;
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .client-logo-area .section-title-two {
+    margin-bottom: 45px;
+  }
+}
+@media (max-width: 767px) {
+  .client-logo-area .section-title-two {
+    margin-bottom: 35px;
+  }
+}
+.client-logo-area .section-title-two span {
+  text-transform: capitalize;
+  color: var(--white);
+  background: var(--primary);
+  display: inline-block;
+  margin-bottom: 10px;
+  padding: 5px 15px;
+  border-radius: 4px;
+}
+.client-logo-area .section-title-two h2 {
+  margin-bottom: 15px;
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .client-logo-area .section-title-two h2 {
+    font-size: 2rem;
+    line-height: 2.8rem;
+  }
+}
+@media (max-width: 767px) {
+  .client-logo-area .section-title-two h2 {
+    font-size: 1.5rem;
+    line-height: 1.9rem;
+  }
+}
+.client-logo-area .section-title-two p {
+  color: black;
+}
+
+/*===== Client Logo One =====*/
+.client-logo-one {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.client-logo-one .single-client {
+  margin-top: 30px;
+}
+
+
+/*===========================
+  card-01 css
+===========================*/
+.single-card {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-top: 30px;
+  -webkit-transition: all 0.3s ease-out 0s;
+  -moz-transition: all 0.3s ease-out 0s;
+  -ms-transition: all 0.3s ease-out 0s;
+  -o-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+}
+.single-card:hover {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.single-card .card-image img {
+  width: 100%;
+  height: 100%;
+}
+.single-card .card-content {
+  padding: 16px;
+}
+.single-card .card-content .card-title {
+  margin-bottom: 0;
+}
+.single-card .card-content .card-title a {
+  color: black;
+  -webkit-transition: all 0.3s ease-out 0s;
+  -moz-transition: all 0.3s ease-out 0s;
+  -ms-transition: all 0.3s ease-out 0s;
+  -o-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+}
+.single-card .card-content .card-title a:hover {
+  color: greenyellow;
+}
+.single-card .card-content .text {
+  color: black;
+  margin-top: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
