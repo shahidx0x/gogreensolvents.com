@@ -283,3 +283,20 @@
   });
 
 })()
+
+// function downloadPDF(filename) {
+//   var pdfURL = "assets/pdfs/" + filename;
+
+//   var link = document.createElement("a");
+//   link.href = pdfURL;
+//   link.download = filename;
+//   link.target = "_blank";
+
+//   if (document.createEvent) {
+//     var event = document.createEvent("MouseEvents");
+//     event.initEvent("click", true, true);
+//     link.dispatchEvent(event);
+//   } else {
+//     link.click();
+//   }
+// }

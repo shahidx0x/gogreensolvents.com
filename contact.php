@@ -27,7 +27,7 @@ try {
 
     // Recipients
     $mail->setFrom('sender@gogreensolvents.com', 'Mail Sender');
-    $mail->addAddress('dev.imshahid@gmail.com', 'User Emails');
+    $mail->addAddress('sales@gogreensolvents.com', 'User Emails');
     $mail->addReplyTo($email, $name);
 
     // Content

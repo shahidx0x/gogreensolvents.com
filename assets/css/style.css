@@ -16,15 +16,29 @@
   position: relative;
   z-index: 5;
 }
+.cert-img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 600px) {
+  .cert-img {
+    width: 300px;
+  }
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .client-logo-area .section-title-two {
     margin-bottom: 45px;
   }
+
+
 }
 @media (max-width: 767px) {
   .client-logo-area .section-title-two {
     margin-bottom: 35px;
   }
+
 }
 .client-logo-area .section-title-two span {
   text-transform: capitalize;
@@ -815,8 +829,9 @@ background: #fff;
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
+
+
 .carousel-item {
-  height: 70vh;
   min-height: 350px;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
@@ -824,6 +839,7 @@ background: #fff;
   -o-background-size: cover;
   background-size: cover;
 }
+
 
 #hero {
   width: 100%;
@@ -960,6 +976,10 @@ section {
 
 .section-bg {
   background-color: rgba(232, 244,233, .8);
+}
+
+.section-bg-deep {
+  background-color: rgba(181, 197, 182, 0.8);
 }
 
 .section-title {
@@ -2194,7 +2214,7 @@ section {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
 }
 #fh5co-testimonial .testimony-slide figure img {
   width: 100px;

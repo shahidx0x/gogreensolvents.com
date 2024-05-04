@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Personal Care Group",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/5878ef8e-bf74-479d-b585-75cab8d1d408-thumbnail-770x770-70.jpg",
+    "link": "https://yourwebsite.com/products/بكج-العناية-الشخصية"
+  },
+  {
+    "name": "Kitchen Care Group",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/cd8d9854-b7f5-4b3b-9029-00dfeee7057a-thumbnail-770x770-70.jpg",
+    "link": "https://yourwebsite.com/products/العناية-بالمطبخ"
+  },
+  {
+    "name": "Floor and Carpet Care Group",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/b370bb88-ebc0-4263-9c7e-2f21f228bb21-thumbnail-770x770-70.jpg",
+    "link": "https://yourwebsite.com/products/العناية-بالأرضيات"
+  },
+  {
+    "name": "Clothes and Fabric Care Group",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/73939dd0-c29f-4925-be27-17ae30524472-thumbnail-770x770-70.jpg",
+    "link": "https://yourwebsite.com/products/بكج-العناية-بالملابس-والاقمشة"
+  },
+  {
+    "name": "Super Power Gel (Clothes Washi...)",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/604595ff-80bd-4771-9ef7-0c6ba199cef2-thumbnail-770x770-70.jpg",
+    "link": "https://yourwebsite.com/products/شامبو-غسيل-الملابس-باور-جل"
+  },
+  {
+    "name": "Super Power Gel (Clothes Washi...)",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/28896293-9622-45fb-8b43-75cb7427264a-thumbnail-770x770-70.jpg",
+    "link": "https://yourwebsite.com/products/كرتون-شامبو-غسيل-الملابس-باور-جل"
+  },
+  {
+    "name": "Abaya Shampoo 8 PCS X 2 LTR",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/e6169093-b923-447c-8996-e46830c92746-thumbnail-770x770-70.jpg",
+    "link": "https://yourwebsite.com/products/شامبو-العباية"
+  },
+  {
+    "name": "Abaya Shampoo 3 LTR",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/6f747e4b-befe-4471-8c8b-d59aa187c7c6-thumbnail-770x770-70.jpg",
+    "link": "https://yourwebsite.com/products/شامبو-العباية-1"
+  },
+  {
+    "name": "Fabric Softener 8 PCS X 2 LTR",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/59be85ff-b34f-4c86-8e34-20db48a10bdb-thumbnail-770x770-70.jpg",
+    "link": "https://yourwebsite.com/products/منعم-و-معطر-الملابس"
+  },
+  {
+    "name": "Fabric Softener 30 LTR",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/254ad535-6585-486e-b32a-c5db77153f90-thumbnail-770x770-70.jpg",
+    "link": "https://yourwebsite.com/products/منعم-و-معطر-الملابس-1"
+  },
+  {
+    "name": "Stain Remover for Colores Clot...",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/9b744f7d-2168-46d4-8dce-fd318a759682-thumbnail-770x770-70.jpg",
+    "link": "/products/مزيل-البقع-للملابس-الملونة"
+  },
+  {
+    "name": "Dry Stain Remover 12PcsX1 LTR",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/9b744f7d-2168-46d4-8dce-fd318a759682-thumbnail-770x770-70.jpg",
+    "link": "/products/مزيل-البقع-على-الجاف"
+  },
+  {
+    "name": "Stain Remover for White Clothe...",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/7d21e94a-7f7f-40b2-81b5-58c5df6ef069-thumbnail-770x770-70.jpg",
+    "link": "/products/مزيل-بقع-الملابس-البيضاء"
+  },
+  {
+    "name": "Surface Cleaner and Disinfecta...",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/dc53a14e-56c4-48e8-9ca8-33ae51261d89-thumbnail-770x770-70.jpg",
+    "link": "/products/مطهر-ومعقم-الاسطح"
+  },
+  {
+    "name": "Surface Cleaner and Disinfec...",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/311ed484-5008-47e6-b91c-ea0b752fb267-thumbnail-770x770-70.jpg",
+    "link": "/products/كرتون-مطهر-و-معقم-الاسطح-1"
+  },
+  {
+    "name": "Degrease and Multi-Purpose 12P...",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/316e5345-9aa7-4ffb-a5b6-da6609d3e9d4-thumbnail-770x770-70.jpg",
+    "link": "/products/بخاخ-مزيل-الشحوم-و-متعدد-الاستخدامات"
+  },
+  {
+    "name": "Degrease and Multi-Purpose 30 ...",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/042ada05-5997-4650-8942-5d55d6114751-thumbnail-770x770-70.jpg",
+    "link": "/products/مزيل-الشحوم-و-متعدد-الاستخدامات"
+  },
+  {
+    "name": "Cleaner for Kitchen Ovens",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/d6a0c013-917c-4681-831a-6eb4ccfdd2ed-thumbnail-770x770-70.jpg",
+    "link": "/products/منظف-أفران-المطابخ"
+  },
+  {
+    "name": "Oven kitchen Cleaner 12PcsX1 L...",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/6356833e-a44c-42f8-adfb-4aac5b335a9d-thumbnail-770x770-70.jpg",
+    "link": "/products/منظف-أفران-المطابخ"
+  },
+  {
+    "name": "Glass Cleaner",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/6356833e-a44c-42f8-adfb-4aac5b335a9d-thumbnail-770x770-70.jpg",
+    "link": "/products/ملمع-الزجاج"
+  },
+  {
+    "name": "Hand Sanitizer Gel",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/b4191909-dcb7-42b4-8860-4b584163f18b-thumbnail-770x770-70.jpg",
+    "link": "/products/جل-معقم-الايدي"
+  },
+  {
+    "name": "Anti-bacterial Hand Soap 12PCS...",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/22d687f3-7ea1-429d-8654-12c14830df71-thumbnail-770x770-70.jpg",
+    "link": "/products/صابون-ايدي-مضاد-للبكتيريا"
+  },
+  {
+    "name": "Anti-bacterial Hand Soap 5 LTR",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/6e70d836-dbf8-43fd-bf7a-ccf7aa6dc9de-thumbnail-770x770-70.jpg",
+    "link": "/products/صابون-ايدي-مضاد-للبكتيريا-4-حبة-5-لتر"
+  },
+  {
+    "name": "Anti-bacterial Hand Soap 4PCS ...",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/87d05fe0-8aac-4027-83c9-76e722cf7665-thumbnail-770x770-70.jpg",
+    "link": "/products/صابون-ايدي-مضاد-للبكتيريا-12-حبة-350-مل"
+  },
+  {
+    "name": "Super Green Gel 12 PCS X 500 G...",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/089b7289-9547-4d9d-8475-4e97b3e04578-thumbnail-770x770-70.jpg",
+    "link": "/products/سوبر-جل"
+  },
+  {
+    "name": "Floor Cleaner 6PcsX3 LTR",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/526a0b3b-f6dc-4db8-9c18-4d0076169441-thumbnail-770x770-70.jpg",
+    "link": "/products/منظف--و-مطهر--الارضيات-"
+  },
+  {
+    "name": "Floor Cleaner 30 LTR",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/11e26f64-dea8-44d3-80f0-a6fcb41b1085-thumbnail-770x770-70.jpg",
+    "link": "/products/منظف-الارضيات"
+  },
+  {
+    "name": "Flash",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/05cdd94e-a2e2-4293-9ba9-612519a8cc5c-thumbnail-770x770-70.jpg",
+    "link": "/products/فلاش-الاصلي"
+  },
+  {
+    "name": "Bleach Liquid 5% (Clor) 18PcsX...",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/33304d88-f23c-41c5-9ec0-c4865c725fc8-thumbnail-770x770-70.jpg",
+    "link": "/products/معقم-ومطهر"
+  },
+  {
+    "name": " Bleach Liquid 5%(Clor) 6PcsX4...",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/1e0bb9d8-f4cf-4f15-b337-a38e16996c96-thumbnail-770x770-70.jpg",
+    "link": "/products/كرتون-مبيض-و-معقم-كلور-1"
+  },
+  {
+    "name": "Bleach Liquid 5%(Clor)30 LTR",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/52cfb0b0-0c45-4bbe-9321-62866e7a1f69-thumbnail-770x770-70.jpg",
+    "link": "/products/كرتون-مبيض-و-معقم-كلور"
+  },
+  {
+    "name": "Carpet Shampoo 8PcsX2 Ltr",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/11d9e762-ba6c-4313-ad0d-eadada9d320a-thumbnail-770x770-70.jpg",
+    "link": "/products/شامبو-غسيل-السجاد"
+  },
+  {
+    "name": "Dishwashing Liquid Soap 12PcsX...",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/2fda1eb6-7515-4031-b737-530bdd3b3784-thumbnail-770x770-70.jpg",
+    "link": "/products/سائل-الصحون"
+  },
+  {
+    "name": "Dishwashing Liquid Soap with Glycerin",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/812914b6-af82-4359-a607-b8738cc403e3-thumbnail-770x770-70.jpg",
+    "link": "/products/سائل-غسيل-الصحون-مع-تركيبة-الجلسرين-1"
+  },
+  {
+    "name": "Dishwashing Liquid Soap 24PcsX...",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/43d9e6dd-36d2-4dd6-b256-985086be1887-thumbnail-770x770-70.jpg",
+    "link": "/products/سائل-غسيل-الصحون-مع-تركيبة-الجلسرين-1"
+  },
+  {
+    "name": "Dishwashing Liquid Soap 30 LTR",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/43d9e6dd-36d2-4dd6-b256-985086be1887-thumbnail-770x770-70.jpg",
+    "link": "/products/سائل-غسيل-الصحون-مع-تركيبة-الجلسرين"
+  },
+  {
+    "name": "Vegetable and Fruit Cleaner a...",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/94675c4e-05d7-46f9-b9bd-16f291e88cc2-thumbnail-770x770-70.jpg",
+    "link": "/products/منظف-و-معقم-الخضار-و-الفواكه-12-حبة-1xلتر"
+  },
+  {
+    "name": "Vegetable and Fruit Cleaner an...",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/979d469d-1c57-4435-8b8d-bcac684be2cd-thumbnail-770x770-70.jpg",
+    "link": "/products/منظف-و-معقم-الخضار-و-الفواكه-4-حبة-5xلتر"
+  },
+  {
+    "name": "Vegetable and Fruit Cleaner an...",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/985bb912-c5e4-46b3-9c55-a40cebf4ed1c-thumbnail-770x770-70.jpg",
+    "link": "/products/منظف-و-معقم-الخضار-و-الفواكه"
+  },
+  {
+    "name": "Car Shampoo",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/81e32cb4-14a3-4947-b8a5-b43096c97f09-thumbnail-770x770-70.jpg",
+    "link": "/products/شامبو-غسيل-السيارات"
+  },
+  {
+    "name": "Antiseptic and Disinfectant 30...",
+    "image": "https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/10e63b31-2e48-4175-afcb-8aa6f606a973-thumbnail-770x770-70.jpg",
+    "link": "/products/كرتون-مطهر-و-معقم-ضد-الجراثيم-12-حبة-500-مل"
+  },
+  {
+    "name": "Antiseptic and Disinfectant 12...",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/9e2c16a9-5e02-42b3-995b-fb3e011c4eef-thumbnail-770x770-70.jpg",
+    "link": "/products/كرتون-مطهر-و-معقم-ضد-الجراثيم-12-حبة-750-مل"
+  },
+  {
+    "name": "Antiseptic and Disinfectant 12...",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/9e2c16a9-5e02-42b3-995b-fb3e011c4eef-thumbnail-770x770-70.jpg",
+    "link": "/products/مطهر-و-معقم-ضد-الجراثيم-5لتر"
+  },
+  {
+    "name": "Antiseptic and Disinfectant 5...",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/5dd2c466-da84-49eb-a3b7-f8a19a3ae10f-thumbnail-770x770-70.jpg",
+    "link": "/products/مطهر-و-معقم-ضد-الجراثيم-4حبة-5xلتر"
+  },
+  {
+    "name": "Antiseptic and Disinfectant 4x...",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/f95cfc1a-4952-46c2-aee3-557cce3cfdd2-thumbnail-770x770-70.jpg",
+    "link": "/products/مطهر-و-معقم-ضد-الجراثيم-1"
+  },
+  {
+    "name": " Glass Cleaner 12PcsX650 ML",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/372e537e-c507-4baa-b431-74c3dda7cc43-thumbnail-770x770-70.jpg",
+    "link": "/products/ملمع-الزجاج-2"
+  },
+  {
+    "name": " Glass Cleaner 4PcsX5 LTR",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/4845eda6-a372-46af-9692-871e27b1872a-thumbnail-770x770-70.jpg",
+    "link": "/products/ملمع-الزجاج-1"
+  },
+  {
+    "name": "Super Green Gel 6X100 GM ",
+    "image": "https://media.zid.store/cdn-cgi/image/w=300,h=300,q=100,f=auto/https://media.zid.store/thumbs/56c7d850-0cea-4e0f-a285-330cee9fd134/1fd31d56-8304-46da-b860-7c27080913d0-thumbnail-770x770-70.jpg",
+    "link": "/products/كرتون-سوبر-جل-الاخضر"
+  }
+]
